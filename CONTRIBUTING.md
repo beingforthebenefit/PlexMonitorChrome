@@ -1,10 +1,10 @@
-# Contributing to Plex Server Stats Firefox Extension
+# Contributing to Plex Server Stats Chrome Extension
 
-Thank you for considering contributing to the Plex Server Stats Firefox Extension! Contributions from the community help improve and enhance the extension for everyone.
+Thank you for considering contributing to the Plex Server Stats Chrome Extension! Contributions from the community help improve and enhance the extension for everyone.
 
 ## Getting Started
 
-To get started with contributing to the Plex Server Stats Firefox Extension, please follow these steps:
+To get started with contributing to the Plex Server Stats Chrome Extension, please follow these steps:
 
 1. Fork the repository and clone it to your local machine.
 2. Make your changes or additions to the codebase.
@@ -32,6 +32,6 @@ If you have any questions or need assistance with contributing, please feel free
 
 ## License
 
-By contributing to the Plex Server Stats Firefox Extension, you agree that your contributions will be licensed under the [MIT License](./LICENSE).
+By contributing to the Plex Server Stats Chrome Extension, you agree that your contributions will be licensed under the [MIT License](./LICENSE).
 
-We appreciate your interest and support in contributing to the Plex Server Stats Firefox Extension!
+We appreciate your interest and support in contributing to the Plex Server Stats Chrome Extension!

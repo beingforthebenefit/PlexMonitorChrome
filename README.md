@@ -1,12 +1,12 @@
-# Plex Server Stats Firefox Extension
+# Plex Server Stats Chrome Extension
 
 <img src="./assets/plex-icon.png" width="200px" height="200px" alt="Plex Server Stats Logo">
 
 ## Description
-The Plex Server Stats Firefox Extension provides a convenient way to monitor the status of your Plex Media Server right from your Firefox browser toolbar. It displays real-time information about the current streams, activities, and library statistics.
+The Plex Server Stats Chrome Extension provides a convenient way to monitor the status of your Plex Media Server right from your Chrome browser toolbar. It displays real-time information about the current streams, activities, and library statistics.
 
 ## Installation
-You can install the Plex Server Stats Firefox Extension from the [Mozilla add-on collection](https://addons.mozilla.org/en-US/firefox/addon/plex-server-stats/). Simply visit the add-on page and click on the "Add to Firefox" button.
+You can install the Plex Server Stats Chrome Extension from the Chrome Extension Store. Simply visit the add-on page and click on the "Add to Chrome" button.
 
 ## Features
 - Display real-time information about current streams, activities, and library statistics.
@@ -15,7 +15,7 @@ You can install the Plex Server Stats Firefox Extension from the [Mozilla add-on
 - Quick links to jump to Plex server settings.
 
 ## Usage
-After installing the extension, you'll see a new icon in your Firefox toolbar resembling a server. Click on the icon to open the popup window, which will display the current streams, activities, and library statistics.
+After installing the extension, you'll see a new icon in your Chrome toolbar resembling a server. Click on the icon to open the popup window, which will display the current streams, activities, and library statistics.
 
 To customize the extension, click on the cog icon in the upper-right corner of the popup. This will take you to the settings page where you can select your preferred movies and TV shows libraries.
 
@@ -29,7 +29,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 This project is licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgements
-Special thanks to the Mozilla team for including this extension in the Mozilla add-on collection.
+Special thanks to the Chrome team for including this extension in the Chrome add-on collection.
 
 ## Screenshots
 ![Popup Window](./screenshots/popup.png)

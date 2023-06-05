@@ -1,6 +1,6 @@
 # Code of Conduct
 
-As contributors and maintainers of the Plex Server Stats Firefox Extension, we are committed to creating a respectful and inclusive environment for everyone involved. We expect all participants in our community to abide by this Code of Conduct in all interactions and contributions.
+As contributors and maintainers of the Plex Server Stats Chrome Extension, we are committed to creating a respectful and inclusive environment for everyone involved. We expect all participants in our community to abide by this Code of Conduct in all interactions and contributions.
 
 ## Our Pledge
 
